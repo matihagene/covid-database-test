@@ -36066,39 +36066,39 @@
     },
     {
       "date": "2020-7-16",
-      "confirmed": 85314,
+      "confirmed": 85327,
       "deaths": 4644,
-      "recovered": 80018
+      "recovered": 80038
     },
     {
       "date": "2020-7-17",
-      "confirmed": 85314,
-      "deaths": 4644,
-      "recovered": 80018
+      "confirmed": 85402,
+      "deaths": 4645,
+      "recovered": 80064
     },
     {
       "date": "2020-7-18",
-      "confirmed": 85314,
-      "deaths": 4644,
-      "recovered": 80018
+      "confirmed": 85418,
+      "deaths": 4646,
+      "recovered": 80092
     },
     {
       "date": "2020-7-19",
-      "confirmed": 85314,
-      "deaths": 4644,
-      "recovered": 80018
+      "confirmed": 85503,
+      "deaths": 4646,
+      "recovered": 80137
     },
     {
       "date": "2020-7-20",
-      "confirmed": 85314,
-      "deaths": 4644,
-      "recovered": 80018
+      "confirmed": 85622,
+      "deaths": 4646,
+      "recovered": 80162
     },
     {
       "date": "2020-7-21",
-      "confirmed": 85314,
-      "deaths": 4644,
-      "recovered": 80018
+      "confirmed": 85708,
+      "deaths": 4648,
+      "recovered": 80204
     }
   ],
   "Colombia": [
